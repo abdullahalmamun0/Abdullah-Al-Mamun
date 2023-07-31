@@ -4,8 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Cyber Security & Ethical Hacking
 --------------------------------
 
-Portfolio Summary: Cyber Security and Ethical Hacking
-
 Introduction:
 As an aspiring professional in the field of cybersecurity and ethical hacking, my portfolio showcases a comprehensive range of skills, experiences, and accomplishments in safeguarding digital assets and ensuring the integrity of information systems. With a passion for staying one step ahead of cyber threats and vulnerabilities, I have honed my expertise to protect organizations and individuals from the ever-evolving landscape of cyber threats.
 
