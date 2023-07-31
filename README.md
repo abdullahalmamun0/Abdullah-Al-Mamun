@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is ABDULLAH AL MAMUN
 =========================================================================================================================================
 
-Software Quality Assurance
+Cyber Security
 --------------------------
 
 As a software quality assurance professional, my portfolio showcases my expertise in ensuring the delivery of high-quality software products to meet the needs of customers and stakeholders. With my years of experience in this field, I have developed a deep understanding of the software development lifecycle and have a keen eye for identifying and addressing potential quality issues. One of my key strengths is my ability to create comprehensive test plans that cover all aspects of the software product. I understand the importance of testing not only the functional aspects of the software, but also non-functional areas such as performance, security, and usability. I work closely with developers and other stakeholders to ensure that all testing is thorough, efficient, and effective. In addition to my technical skills, I also have strong project management and communication skills. I am able to work effectively in fast-paced environments and am skilled at managing multiple projects simultaneously. I am able to communicate complex technical concepts to both technical and non-technical stakeholders, which helps to ensure alignment and understanding across the entire project team. Overall, my portfolio showcases my deep understanding of software quality assurance and my ability to deliver high-quality software products on time and within budget. I am confident that my skills and experience would be a valuable addition to any software development team.
@@ -9,7 +9,6 @@ As a software quality assurance professional, my portfolio showcases my expertis
 * 🌍  I'm based in Bangladesh
 * ✉️  You can contact me at [abdullahalmamun0389@gmail.com](mailto:abdullahalmamun0389@gmail.com)
 * 🧠  I'm learning Cybersecurity and Ethical Hacking
-* 🤝  I'm open to collaborating on Software Quality Assurance
 
 <a href="https://www.github.com/blackspider20" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/blackspider20?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
